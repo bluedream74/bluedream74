@@ -136,7 +136,7 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider" />
 </div>
 
-📊 **this week i spent my time on:**
+📊 **THIS WEEK I SPENT MY TIME ON:**
 <!--START_SECTION:waka-->
 
 ```text
