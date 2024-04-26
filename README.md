@@ -7,10 +7,6 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
   <h3 align="center"> :open_book: Front end skills</h3><br/>
-<!-- <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
-</div>  -->
-<!-- <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3> -->
 
 <!--   <table>
     <tr>
