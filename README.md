@@ -131,40 +131,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"
     width="40" height="40" />&nbsp;
 </div>
-
-<br />
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider" />
-</div>
-<div align="center" style="witdh:100%">
-  <h3>
-    :fire: My Stats
-  </h3><br />
-</div>
-<div align="center" style="witdh:100%">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=christopher-itech&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=christopher-itech&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-  <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashiramaDev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
-</div>
-<br />
 <br />
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider" />
 </div>
-<!-- <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=christopher-itech&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br/> -->
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
 React 19 hrs 12 mins ██████████████░░░░░░░░░░░ 49.25 %
-Django 13 hr 35 mins █████████▓░░░░░░░░░░░░░░░ 36.09 %
+Golang 13 hr 35 mins █████████▓░░░░░░░░░░░░░░░ 36.09 %
 AWS Lamda 6 hr 14 mins ███░░░░░░░░░░░░░░░░░░░░░░ 11.78 %
 Python 56 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.85 %
 C++ 30 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.05 %
