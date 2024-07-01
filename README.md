@@ -16,6 +16,8 @@
     alt="JavaScript" />
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"
     alt="TypeScript" />
+  <img src="https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    alt="Rust" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     alt="React" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
